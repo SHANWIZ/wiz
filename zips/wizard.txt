@@ -23,8 +23,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Animal build with Adult content - Oct 8th, 2015"
 
 name="Shan Test"
-url="https://www.dropbox.com/s/gn7ue5dgh8kya5p/nox.zip?raw=true" 
+url="https://db.tt/0MSrhv6d" 
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan Test - Oct 10th, 2015"
-
