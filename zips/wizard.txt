@@ -16,7 +16,7 @@ img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Latest AKA Animal Build (no Adult content).  Oct 5th, 2015"
 
-name="Animal Build - with ADULT content"
+name="AKA Animal Build - with ADULT content"
 url="http://bit.ly/1GzhWEF" 
 img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
