@@ -1,5 +1,5 @@
 name="Shan's Nox Build"
-url="https://www.dropbox.com/s/deall4qbvyratmg/New%20Nox.zip?raw=true"
+url="https://www.dropbox.com/s/a7pp3ciq6gonhq1/Nox%20Oct.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/build7.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shannon's Nox build - July 12, 2015"
