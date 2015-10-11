@@ -24,6 +24,6 @@ description="Animal build with Adult content - Oct 8th, 2015"
 
 name="Mal's Build"
 url="https://www.dropbox.com/s/wup9ysqhv5t0803/Kodi.zip?raw=true" 
-img="https://github.com/SHANWIZ/wiz/blob/master/images/Mal.jpg" 
+img="https://github.com/SHANWIZ/wiz/blob/master/images/Mal.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Mal's Build - Oct 11th, 2015"
