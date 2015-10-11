@@ -23,7 +23,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Animal build with Adult content - Oct 8th, 2015"
 
 name="Mal's Build"
-url="https://www.dropbox.com/s/bfy4bz3z8f8xo4r/Mal.zip?raw=true" 
+url="https://www.dropbox.com/s/41fnlzvgtzstjvr/Mal%20Oct.zip?raw=true" 
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Mal.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Mal's Build - Oct 11th, 2015"
