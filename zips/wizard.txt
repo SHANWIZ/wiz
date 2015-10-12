@@ -11,7 +11,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Nox Kids - Oct 11, 2015"
 
 name="Shan's New Nox"
-url="https://www.dropbox.com/s/g7ujnsadyg2m2z8/Shan%20Fixed.zip?raw=true"
+url="https://www.dropbox.com/s/9qcuyztw2ceda9q/Shan%20No%20Bar.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Shan%20OE.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's New Nox - Oct 12, 2015"
