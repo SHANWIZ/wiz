@@ -10,11 +10,11 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/kids10.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's Nox Kids - Oct 11, 2015"
 
-name="Shan's New OE Build with Backgrounds"
+name="Shan's New Nox"
 url="https://www.dropbox.com/s/g7ujnsadyg2m2z8/Shan%20Fixed.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Shan%20OE.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's New OE Build with Backgrounds - Oct 12, 2015"
+description="Shan's New Nox - Oct 12, 2015"
 
 name="Mal's Isengard Build"
 url="https://www.dropbox.com/s/sm3to09o8hg7jv1/Mal-Oct.zip?raw=true" 
