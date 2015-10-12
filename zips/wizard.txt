@@ -11,7 +11,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Nox Kids - Oct 11, 2015"
 
 name="Shan's New OE Build with Backgrounds"
-url="https://www.dropbox.com/s/v0mc3wepw7gczsu/Shan%20Isengard%20PC%20with%20Backgrounds.zip?raw=true"
+url="https://www.dropbox.com/s/g7ujnsadyg2m2z8/Shan%20Fixed.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Shan%20OE.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's New OE Build with Backgrounds - Oct 12, 2015"
