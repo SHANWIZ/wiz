@@ -17,7 +17,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's New OE Build - Oct 11, 2015"
 
 name="Mal's Isengard Build"
-url="https://www.dropbox.com/s/41fnlzvgtzstjvr/Mal%20Oct.zip?raw=true" 
+url="https://www.dropbox.com/s/sm3to09o8hg7jv1/Mal-Oct.zip?raw=true" 
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Mal.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Mal's Isengard Build - Oct 11th, 2015"
