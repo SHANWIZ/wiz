@@ -14,7 +14,7 @@ name="Shan's New Nox"
 url="https://www.dropbox.com/s/2jcc8n4r3q1lqe4/addons.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Shan%20OE.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's New Nox - Oct 12, 2015"
+description="Shan's New Nox - Nov 4, 2015"
 
 name="Mal's Isengard Build"
 url="https://www.dropbox.com/s/sm3to09o8hg7jv1/Mal-Oct.zip?raw=true" 
