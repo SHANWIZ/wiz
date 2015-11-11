@@ -1,8 +1,8 @@
-name="Shan's Nox Build"
-url="https://www.dropbox.com/s/a7pp3ciq6gonhq1/Nox%20Oct.zip?raw=true"
+name="Shan's Hulk"
+url="https://www.dropbox.com/s/gqioypy2hr7duso/Shan%20Hulk.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/build7.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's Nox build - Oct 11, 2015"
+description="Shan's Hulk - Nov 10, 2015"
 
 name="Shan's Nox Kids Build"
 url="https://www.dropbox.com/s/1bp7hunc9ugafz7/Nox%20Kids%20Oct.zip?raw=true"
