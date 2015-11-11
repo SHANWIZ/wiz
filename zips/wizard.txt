@@ -12,7 +12,7 @@ description="Shan's Kids - Nov 10, 2015"
 
 name="Shan's Falcon"
 url="https://www.dropbox.com/s/52vhhf3zh2makra/Shan%20Falcon.zip?dl=0"
-img="https://github.com/SHANWIZ/wiz/blob/master/images/Shan%20OE.jpg?raw=true"
+img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's New Nox with Fixed Library - Nov 8, 2015"
 
