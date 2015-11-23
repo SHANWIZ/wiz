@@ -34,4 +34,10 @@ img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Animal build with Adult content - Oct 8th, 2015"
 
+name="OE Test"
+url="https://www.dropbox.com/s/2qez7iv3uanbrad/fixedoe.zip?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
+fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
+description="Q Help OE Test"
+
 
