@@ -16,12 +16,6 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?ra
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's New Nox with Fixed Library - Nov 8, 2015"
 
-name="Mal's Isengard Build"
-url="https://www.dropbox.com/s/sm3to09o8hg7jv1/Mal-Oct.zip?raw=true" 
-img="https://github.com/SHANWIZ/wiz/blob/master/images/Mal.jpg?raw=true" 
-fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Mal's Isengard Build - Oct 11th, 2015"
-
 name="AKA Animal Build - no adult content"
 url="http://bit.ly/1LkRG6p" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
@@ -34,10 +28,5 @@ img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Animal build with Adult content - Oct 8th, 2015"
 
-name="OE Test"
-url="https://www.dropbox.com/s/2qez7iv3uanbrad/fixedoe.zip?raw=true" 
-img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
-fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Q Help OE Test"
 
 
