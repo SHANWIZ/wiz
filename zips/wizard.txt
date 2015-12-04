@@ -11,10 +11,10 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Kids - Nov 10, 2015"
 
 name="Shan's Falcon"
-url="https://www.dropbox.com/s/8ommoyp54bdtxt8/nov27falcon.zip?raw=true"
+url="https://www.dropbox.com/s/7w31r1876uspio1/dec3falcon.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's Falcon with Revised Kids - Nov 24, 2015"
+description="Shan's Falcon with Perfect Wizard - Dec 3, 2015"
 
 name="AKA Animal Build - no adult content"
 url="http://bit.ly/1LkRG6p" 
