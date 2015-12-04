@@ -16,6 +16,12 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?ra
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's Falcon with Perfect Wizard - Dec 3, 2015"
 
+name="The Hustler"
+url="https://www.dropbox.com/s/li9boaaglnyz58k/thehustler.zip?raw=true"
+img="https://github.com/SHANWIZ/wiz/blob/master/images/The%20Hustler.jpg?raw=true"
+fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
+description="Paul's Hustler Build - Dec 4, 2015"
+
 name="AKA Animal Build - no adult content"
 url="http://bit.ly/1LkRG6p" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
