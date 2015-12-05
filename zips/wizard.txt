@@ -29,5 +29,11 @@ img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Animal build with Adult content - Oct 8th, 2015"
 
+name="Test"
+url="https://www.dropbox.com/s/qbxty0uaf21j63n/home.zip?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
+fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
+description="Home Test"
+
 
 
