@@ -9,7 +9,7 @@ name="Shan's Falcon"
 url="https://www.dropbox.com/s/uz8sumyypkz5gzm/falcondec20.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's Falcon Done - Dec 20, 2015"
+description="Shan's Falcon Done with my Wizard - Dec 20, 2015"
 
 name="Paul's: The Hustler"
 url="https://www.dropbox.com/s/li9boaaglnyz58k/thehustler.zip?raw=true"
