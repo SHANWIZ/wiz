@@ -6,7 +6,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Kids - Nov 10, 2015"
 
 name="Shan's Falcon"
-url="https://www.dropbox.com/s/8y1ltbwv06hnhza/falcondec26.zip?raw=true"
+url="https://www.dropbox.com/s/2jcc8n4r3q1lqe4/addons.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's Falcon Done with Ani Wizard - Dec 26, 2015"
