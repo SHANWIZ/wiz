@@ -11,11 +11,11 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?ra
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Shan's Falcon Done with Ani Wizard - Dec 26, 2015"
 
-name="Paul's: The Hustler"
-url="https://www.dropbox.com/s/li9boaaglnyz58k/thehustler.zip?raw=true"
+name="Paul's New Build"
+url="https://www.dropbox.com/s/p32go7r7a9awfvx/Paulnew.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/The%20Hustler.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Paul's Hustler Build - Dec 4, 2015"
+description="Paul's New Build - Feb 15-16"
 
 name="AKA Animal Build - no adult content"
 url="http://bit.ly/1LkRG6p" 
