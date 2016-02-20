@@ -6,28 +6,23 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Kids - Nov 10, 2015"
 
 name="Shan's Falcon"
-url="https://www.dropbox.com/s/8y1ltbwv06hnhza/falcondec26.zip?raw=true"
-img="https://github.com/SHANWIZ/wiz/blob/master/images/Millenium%20Falcon.jpg?raw=true"
+url="https://www.dropbox.com/s/tr4y72xgut94c9c/Feb20.zip?raw=true"
+img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's Falcon Done with Ani Wizard - Dec 26, 2015"
+description="Shan's Tiny Build - Feb 20, 2016"
 
 name="Paul's New Build"
 url="https://www.dropbox.com/s/p32go7r7a9awfvx/Paulnew.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/The%20Hustler.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Paul's New Build - Feb 15-16"
+description="Paul's New Build - Feb 15, 2016"
 
-name="AKA Animal Build - no adult content"
+name="AKA Animal Build"
 url="http://bit.ly/1LkRG6p" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Latest AKA Animal Build (no Adult content).  Oct 5th, 2015"
 
-name="AKA Animal Build - with ADULT content"
-url="http://bit.ly/1GzhWEF" 
-img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
-fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Animal build with Adult content - Oct 8th, 2015"
 
 
 
