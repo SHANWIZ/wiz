@@ -18,10 +18,10 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Paul's New Build - Feb 15, 2016"
 
 name="AKA Animal Build"
-url="http://bit.ly/1LkRG6p" 
+url="https://www.dropbox.com/s/pyk7dvcnvlvrpsh/AKA.xon.3.0.zip?raw=true" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Latest AKA Animal Build (no Adult content).  Oct 5th, 2015"
+description="Latest AKA Animal Build - Mar 5-16"
 
 
 
