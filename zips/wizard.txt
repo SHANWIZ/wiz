@@ -1,9 +1,9 @@
 
-name="Shan's Kids"
-url="https://www.dropbox.com/s/t77r9ao887bzlgu/Shan%20Kids.zip?raw=true"
+name="Lando"
+url="https://www.dropbox.com/s/5z0uvtyb836uagk/lando.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/kids10.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Shan's Kids - Nov 10, 2015"
+description="Lando - May 7, 2016"
 
 name="Shan's Tiny Build"
 url="https://www.dropbox.com/s/b2zhqv454ortk2k/updatedaddons.zip?raw=true"
