@@ -12,10 +12,10 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Shan's Tiny Build - Mar 2, 2016"
 
 name="Paul's New Build"
-url="https://www.dropbox.com/s/p32go7r7a9awfvx/Paulnew.zip?raw=true"
+url="https://www.dropbox.com/s/ig088ta2n5p4owl/paulie.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/The%20Hustler.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Paul's New Build - Feb 15, 2016"
+description="Paul's New Build - May 7, 2016"
 
 name="AKA Animal Build"
 url="https://www.dropbox.com/s/pyk7dvcnvlvrpsh/AKA.xon.3.0.zip?raw=true" 
