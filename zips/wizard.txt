@@ -29,6 +29,12 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Don Build Apr 30-16"
 
+name="Bree Build"
+url="https://www.dropbox.com/s/vpuvhu6toj84bvg/isengard.zip?raw=true"
+img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
+fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
+description="Bree Isengard May 20-16"
+
 
 
 
