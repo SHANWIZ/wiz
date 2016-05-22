@@ -18,7 +18,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Paul's New Build - May 7, 2016"
 
 name="AKA Animal Build"
-url="https://www.dropbox.com/s/uc6ijthvm85hppi/home.zip?raw=true" 
+url="https://www.dropbox.com/s/pyk7dvcnvlvrpsh/AKA.xon.3.0.zip?raw=true" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Latest AKA Animal Build - Mar 5-16"
@@ -35,7 +35,7 @@ img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Bree Isengard May 20-16"
 
-https://www.dropbox.com/s/pyk7dvcnvlvrpsh/AKA.xon.3.0.zip?raw=true
+
 
 
 
