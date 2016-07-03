@@ -6,7 +6,7 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Jarvis Nox May 21, 2016"
 
 name="John Build"
-url="https://www.dropbox.com/s/7jpeavmlyog4gjz/shanbuild.2016.07.03.zip?raw=true"
+url="https://www.dropbox.com/s/e600rraknsdvas6/shanbuild.16.07.03.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
 description="Jarvis Nox May 21, 2016"
