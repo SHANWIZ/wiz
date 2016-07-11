@@ -6,10 +6,10 @@ fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=tru
 description="Jarvis Nox May 21, 2016"
 
 name="John Build"
-url="https://www.dropbox.com/s/e600rraknsdvas6/shanbuild.16.07.03.zip?raw=true"
+url="https://www.dropbox.com/s/yxjqqyhz5acerb4/newsgstreams.zip?raw=true"
 img="https://github.com/SHANWIZ/wiz/blob/master/images/Test.jpg?raw=true"
 fanart="https://github.com/SHANWIZ/wiz/blob/master/images/background.jpg?raw=true"
-description="Jarvis Nox May 21, 2016"
+description="Jarvis Nox July 11, 2016"
 
 name="Paul's New Build"
 url="https://www.dropbox.com/s/ig088ta2n5p4owl/paulie.zip?raw=true"
